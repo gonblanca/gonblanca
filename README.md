@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/99ec874d-e55d-4ef9-b429-20636fc7142e)
+
 
 ⚡ Fun fact: nacho
 <!--
